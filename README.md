@@ -17,6 +17,9 @@ Steps to run locally
  The above has `name` and `price` as required fields that need to be passed to the query.
 
  The sample query looks like below
+
+ ![1](https://github.com/anshul-5harma/backend-plotly/assets/27900079/a8fe35d6-90bd-4389-b2c2-1ff28f622c59)
+
  
  ### Users
  The above has `name`, `email`, `age` and `order` as required fields that need to be passed to the query.
